@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RobotLand/static/css/main.9bc16782.css",
+    "main.js": "/RobotLand/static/js/main.f95796f5.js",
+    "static/js/787.32032a02.chunk.js": "/RobotLand/static/js/787.32032a02.chunk.js",
+    "index.html": "/RobotLand/index.html",
+    "main.9bc16782.css.map": "/RobotLand/static/css/main.9bc16782.css.map",
+    "main.f95796f5.js.map": "/RobotLand/static/js/main.f95796f5.js.map",
+    "787.32032a02.chunk.js.map": "/RobotLand/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bc16782.css",
+    "static/js/main.f95796f5.js"
+  ]
+}
